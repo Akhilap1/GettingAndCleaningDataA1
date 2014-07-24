@@ -3,17 +3,16 @@ Course Project for "Getting and Cleaning Data" - coursera.org
 
 This repo is created for the above mentioned course/assigment.
 
-
 Repository contents include
 
-1. Readme.md- this
-
-
-2. run_analysis.R - R script file to generate a tidy set based on details provided below.
-
-Manual processing: Data for this project is downloaded from the following URL
+1. Readme.md
+Data for this project is downloaded from the following URL
 https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip 
 Save the zip file and unzip it into the folder named UCI HAR dataset.
+
+2. CodeBook.md 
+
+3. run_analysis.R - R script file to generate a tidy set based on details provided below.
 
 The run_analysis.R script created will run from the folder where the data was unzipped. (the parent folder of UCI HAR dataset)
 Reads the training data from UCI HAR dataset/train/X_train.txt
