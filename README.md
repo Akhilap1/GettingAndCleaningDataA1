@@ -14,6 +14,7 @@ Save the zip file and unzip it into the folder named UCI HAR dataset.
 
 3. run_analysis.R - R script file to generate a tidy set based on details provided below.
 
+* returnTidydata() function returns a tidy data set based on the assigment requirements detailed below.
 * The run_analysis.R script created will run from the folder where the data was unzipped. (the parent folder of UCI HAR dataset)
 * Reads the training data from UCI HAR dataset/train/X_train.txt
 * Reads the test data from UCI HAR dataset/train/X_train.txt
