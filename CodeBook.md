@@ -70,7 +70,7 @@ The complete list of variables of each feature vector is available in 'features.
 
 
 The final tidy data consists of the means of the  original means and std of initial features, per activity and subject
-
+=======================================================================================================================
 
 *Activity 
 
